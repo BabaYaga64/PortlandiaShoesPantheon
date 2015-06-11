@@ -1,0 +1,3 @@
+[submodule "sites/all/modules/contact"]
+	path = sites/all/modules/contact
+	url = https://github.com/ericacha/contact_module-.git
