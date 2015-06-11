@@ -1159,3 +1159,82 @@ border-left: 1px solid; border-right: 1px solid; height: 40px; margin-left: -36p
   }
 
 }
+
+/*****************************   PERSONAL CCS   ******/
+
+
+.footer-link {
+    margin: -27px -27px -27px 0px;
+}
+.footer-link:hover {
+    color: white;
+}
+.footer-link a:hover {
+    color: white;
+}
+#block-system-main > div > div > div.field.field-name-field-image.field-type-image.field-label-hidden {
+    float: left;
+}
+
+#block-system-main > div > div > div.field.field-name-field-shoe-image.field-type-image.field-label-hidden > div > div {
+    float: left;
+}
+
+#block-system-main > div > div > div.field.field-name-body.field-type-text-with-summary.field-label-hidden > div > div {
+    font-style: italic;
+    font-size: 16px;
+}
+h1.page-title {
+        color: #FF5F4D;
+}
+
+#block-system-main > div > div > div.commerce-product-field.commerce-product-field-commerce-price.field-commerce-price > div {
+    margin-top: -150px;
+    float: right;
+    clear: both;
+    margin-right: 170px;
+}
+#block-system-main > div > div > div.commerce-product-extra-field.commerce-product-extra-field-status {
+    margin-top: -120px;
+    float: right;
+    clear: both;
+    margin-right: 170px;
+}
+#block-system-main > div > div > div.field.field-name-field-variations.field-type-commerce-product-reference.field-label-hidden {
+    margin-top: -20px;
+    float: right;
+    clear: both;
+    margin-right: 170px;
+}
+#block-system-main > div > div > div.commerce-product-field.commerce-product-field-field-size.field-field-size > div {
+    margin-top: -50px;
+    float: right;
+    clear: both;
+    margin-right: 170px;
+}
+#edit-submit {
+    background: #FF5F4D;
+    color: white;
+    text-shadow: none;
+    box-shadow: none;
+}
+/*h1#site-title a {
+    background: rgba(255, 95, 77, 0.5);
+    padding: 0 5px 0 5px;
+}*/
+#block-views-sale-block {
+    margin-left: 50px;
+}
+
+.page-node #content-wrap img {
+    border:0px;
+}
+
+#primary td {
+    border: 0px;
+
+}
+
+#primary table {
+    border: 0px;
+}
