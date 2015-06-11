@@ -1230,11 +1230,18 @@ h1.page-title {
     border:0px;
 }
 
-#primary td {
+/*#primary td {
     border: 0px;
 
 }
 
 #primary table {
     border: 0px;
+}*/
+#block-system-main > div > div > div.field.field-name-field-shoe-image.field-type-image.field-label-hidden > div > div {
+    width: 400px;
+}
+#googleMap {
+    margin-left: 600px;
+    margin-top: -500px;
 }
