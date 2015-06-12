@@ -1245,3 +1245,23 @@ h1.page-title {
     margin-left: 600px;
     margin-top: -500px;
 }
+#slidebox > ul.slides > li.flex-active-slide > div > a {
+    display: none;
+}
+
+#block-views-welcome-block h2 {
+    width: 500px;
+}
+#first-time {
+    display: none;
+}
+
+#block-views-sale-block > div.content > div > div > div > div > div > img {
+    width: 1200px;
+    height: 300px;
+}
+#block-views-sale-block > div.content > div > div > div > div.views-field.views-field-field-body {
+    font-weight: bold;
+    margin-top: 20px;
+    text-align: right;
+}
