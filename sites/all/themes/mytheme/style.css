@@ -469,8 +469,9 @@ img.grayscale {
   font-size: 16px;
 }
 
-a.frmore{
-  background: rgba(255,255,255,0.2);
+/*a.frmore{*/
+
+  /*background: rgba(255,255,255,0.2);
   display: block;
   text-transform: uppercase;
   color: #fff;
@@ -479,8 +480,8 @@ a.frmore{
   padding: 5px 0px;
   margin: 10px auto;
   font-weight: bold;
-  color: #fff!important;
-}
+  color: #fff!important;*/
+/*}*/
 
 #preface-area {
   background: none repeat scroll 0 0 #ED564B;
@@ -1159,3 +1160,4 @@ border-left: 1px solid; border-right: 1px solid; height: 40px; margin-left: -36p
   }
 
 }
+
